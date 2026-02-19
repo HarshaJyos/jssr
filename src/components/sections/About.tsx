@@ -25,7 +25,7 @@ export const About = () => {
                             <div className="absolute inset-0 bg-gradient-to-t from-primary/40 to-transparent" />
                             {/* Placeholder for Priest Image */}
                             <Image
-                                src="/about.png"
+                                src="/about1.png"
                                 alt="Priest Image"
                                 fill
                                 className="object-cover"
